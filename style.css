@@ -22,3 +22,29 @@ h1{
     margin-left: 3%;
     padding-left: 3%;
 }
+
+.half_width img{
+    width: 80%;
+    
+}
+
+.link_button{
+    text-decoration: none;
+    /* background-color: orange; */
+    background-image: linear-gradient(orange, red)  ;
+    padding: 15px 20px;
+    border-radius: 50px;
+    color: white; 
+    font-weight: 700;
+    margin-bottom: ;
+
+}
+
+.second_section{
+
+    background-image: url(images/group2.png);
+    background-repeat: no repeat;
+    padding-bottom: 40%;
+}
+
+
