@@ -23,10 +23,9 @@ h1{
     padding-left: 3%;
 }
 
-.half_width img{
-    width: 80%;
-    
-}
+
+
+
 
 .link_button{
     text-decoration: none;
@@ -39,13 +38,29 @@ h1{
     margin-bottom: ;
 
 }
+/* 
+  .second_section{
 
-.second_section{
-
-    background-image: url(images/group2.png);
-    padding-bottom: 40%;
+    background-image: url("images/group2.png");
+    padding-bottom: 25%;
     background-repeat: no-repeat;
     background-size: cover;
+}   */
+
+/* .second_section img{
+    width: 100px;
+
+
+} */
+
+.half_width_two {
+    width: 50%;
+    margin-left: 3%;
+    padding-left: 3%;
 }
 
-
+.half_width_two img {
+    
+    height: 572px;
+    width: 500px;
+}
