@@ -45,7 +45,7 @@ h1{
     background-image: url(images/group2.png);
     padding-bottom: 40%;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 
 
