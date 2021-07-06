@@ -43,8 +43,9 @@ h1{
 .second_section{
 
     background-image: url(images/group2.png);
-    background-repeat: no repeat;
+    background-repeat: none;
     padding-bottom: 40%;
+    
 }
 
 
