@@ -139,5 +139,6 @@ margin-right: 5%;
 
 .half_width_three p{
     text-align: justify;
+    padding-left: 0.5%; 
     padding-right: 10%;
 }
