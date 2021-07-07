@@ -21,6 +21,13 @@ h1{
     width: 50%;
     margin-left: 3%;
     padding-left: 3%;
+    
+}
+
+.half_width p{
+    padding-top: 3.5%;
+    padding-bottom: 7%;
+    font-size: 20px;
 }
 
 
@@ -35,7 +42,8 @@ h1{
     border-radius: 50px;
     color: white; 
     font-weight: 700;
-    margin-bottom: ;
+    
+    
 
 }
 /* 
@@ -142,3 +150,63 @@ margin-right: 5%;
     padding-left: 0.5%; 
     padding-right: 10%;
 }
+
+/* ------- fourth section  */
+
+
+#fourth_section{
+    margin-top: 4%;
+    background-image: url("images/last.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+     padding-bottom: 11%;
+}
+
+.food{
+
+    color: orangered;
+}
+.network{
+color: orange;
+
+}
+#fourth_section h3{
+
+    color: rgb(216, 0, 0);
+    text-align: center;
+    
+
+}
+
+#fourth_section h1{
+
+        text-align: center;
+    padding-top: 5%;
+padding-bottom: 1%;
+}
+
+/* ------ bonus part  */
+
+.bonus_part{
+    margin-top: 4%;
+    background-image: url("images/bonusf.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+     padding-bottom: 3%;
+
+}
+.bonus_part h1{ 
+text-align: center;
+}
+
+.bonus_part h2{ 
+    text-align: center;
+    }
+
+.bonus_style{
+
+    display: flex;
+    padding-left: 40%;
+}
+
+
